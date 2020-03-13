@@ -1,6 +1,3 @@
-/**
- * @format
- */
 import React from 'react';
 import {AppRegistry} from 'react-native';
 import {createStore, applyMiddleware, compose} from 'redux';

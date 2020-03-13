@@ -4,7 +4,7 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   item: {
-    backgroundColor: 'white',
+    backgroundColor: '#ffffff',
     padding: 20,
     marginVertical: 1,
   },
